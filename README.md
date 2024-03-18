@@ -3,4 +3,6 @@ Game agent for playing Abalone game
 
 To install: do pip install -r requirements.txt
 
-![Click to play the video](Abalone_and_1_more_page_Profile_1_Microsoft_Edge_2024-03-17_23-29-40.mp4)
+<p align="center">
+  <img src="segmentation_output.gif" alt="Segmentation Output" width="320" height="240"/>
+</p>
