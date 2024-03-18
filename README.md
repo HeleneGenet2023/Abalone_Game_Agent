@@ -6,3 +6,7 @@ To install: do pip install -r requirements.txt
 <p align="center">
   <img src="my_player_1_vs_my_player_1.gif" alt="Segmentation Output" width="520" height="340"/>
 </p>
+
+<p align="center">
+  <img src="my_player_1_vs_random_player.gif" alt="Segmentation Output" width="520" height="340"/>
+</p>
