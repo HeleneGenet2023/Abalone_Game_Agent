@@ -42,6 +42,7 @@ This section showcases the performance of our Abalone game agent in action. Witn
 <p align="center">
   <img src="my_player_1_vs_my_player_1.gif" alt="Segmentation Output" width="520" height="340"/>
 </p>
+
 ## Contributing
 Contributions to the project are welcome! Please fork the repository and submit pull requests with your proposed changes. Ensure your code adheres to the project's coding standards and include comments for clarity.
 
