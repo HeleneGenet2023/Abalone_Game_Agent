@@ -31,7 +31,7 @@ The agent's logic is based on evaluating the board's state to determine the best
 
 ## Demonstration
 
-This section showcases the performance of our Abalone game agent in action. Witness the strategic depth and decision-making capabilities of our AI in two distinct scenarios: battling a random player and engaging in a self-play scenario to refine its strategy.
+This section showcases the performance of the Abalone game agent in action. See below the strategic and decision-making capabilities of the game agent in two distinct scenarios: battling a random player and engaging in a self-play scenario.
 
 ### My Player vs. Random Player
 <p align="center">
